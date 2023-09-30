@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(232, 182, 182);
+    width: max-content;
+    height: max-content;
+   
+
+}
+button{
+    margin-left:20px;
+    border:none;
+    border-radius: 12px;
+    color: rgb(25, 27, 27);
+    background-color: white;
+    padding: 0.5cm 0.5cm;
+    
+    text-transform: capitalize;
+}
+#tt{
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    color:black;
+ text-transform: uppercase;
+}
